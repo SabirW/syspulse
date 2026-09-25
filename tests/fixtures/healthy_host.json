@@ -1,0 +1,12 @@
+{
+  "hostname": "WKS-HEALTHY-01",
+  "collected_at": "2026-09-25T08:00:00Z",
+  "disks": [
+    {"drive": "C:", "total_gb": 256.0, "free_gb": 120.5, "free_pct": 47.1}
+  ],
+  "services": [
+    {"name": "Spooler", "display_name": "Print Spooler", "status": "Running", "start_type": "Automatic"},
+    {"name": "wuauserv", "display_name": "Windows Update", "status": "Running", "start_type": "Automatic"}
+  ],
+  "recent_errors": []
+}
